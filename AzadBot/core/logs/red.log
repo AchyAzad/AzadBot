@@ -1,0 +1,8 @@
+[2021-02-03 09:47:57] [INFO] red: Begin updating guild configs to support multiple mod/admin roles
+[2021-02-03 09:47:57] [INFO] red: Done updating guild configs to support multiple mod/admin roles
+[2021-02-03 09:47:57] [INFO] red: Moving shared API tokens to a custom group
+[2021-02-03 09:48:01] [INFO] red.main: Shutting down with exit code: 1
+[2021-02-03 09:48:01] [INFO] red.main: Please wait, cleaning up a bit more
+[2021-02-03 09:49:09] [INFO] red.main: Shutting down with exit code: 1
+[2021-02-03 09:49:09] [INFO] red.main: Please wait, cleaning up a bit more
+[2021-02-03 09:50:10] [INFO] red: Connected to Discord. Getting ready...
